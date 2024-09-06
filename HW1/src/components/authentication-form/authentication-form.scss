@@ -1,0 +1,42 @@
+.authentication-form {
+	width: 100%;
+	max-width: 350px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	background-color: white;
+	border-radius: 12px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.authentication-form form {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 30px;
+}
+
+.authentication-form h1{
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+}
+
+.authentication-form__message {
+	margin: 0;
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	font-size: 16px;
+	background-color: rgb(108, 245, 170);
+	border-radius: 8px;
+	color: green;
+}
+
+.authentication-form__message--bc-red {
+	background-color: rgb(252, 180, 180);
+	color: red;
+}

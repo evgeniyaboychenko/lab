@@ -1,0 +1,27 @@
+[
+	{
+		"id": "1",
+		"email": "test1@test.ru", 
+		"password": "test1"
+	},
+	{
+		"id": "2",
+		"email": "test2@test.ru", 
+		"password": "test2"
+	},
+	{
+		"id": "3",
+		"email": "test3@test.ru", 
+		"password": "test3"
+	},
+	{
+		"id": "4",
+		"email": "test4@test.ru", 
+		"password": "test4"
+	},
+	{
+		"id": "5",
+		"email": "test5@test.ru", 
+		"password": "test5"
+	}
+]
