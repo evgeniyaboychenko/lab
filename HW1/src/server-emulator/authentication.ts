@@ -16,7 +16,7 @@ const generationResponse = (loginData: LoginData): Result => {
 	};
 	return {
 		status: 0,
-		statusText: 'Такого пользователя не существует. Повторите попытку'
+		statusText: 'Не удалось войти. Повторите попытку'
 	}
 }
 
