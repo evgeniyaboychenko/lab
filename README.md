@@ -6,3 +6,8 @@
 	
 	[Pages №1](https://evgeniyaboychenko.github.io/lab/) 
 
+2. [ДЗ №2](https://github.com/evgeniyaboychenko/lab/tree/master/HW2) 
+	
+	[PR] (https://github.com/ylabio/react-webinar-3/pull/70)
+
+
