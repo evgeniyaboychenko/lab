@@ -10,4 +10,8 @@
 	
 	[PR] (https://github.com/ylabio/react-webinar-3/pull/70)
 
+3. [ДЗ №3](https://github.com/evgeniyaboychenko/lab/tree/master/HW3) 
+	
+	[PR] (https://github.com/ylabio/react-webinar-3/pull/183)
+
 
